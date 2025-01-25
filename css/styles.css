@@ -425,6 +425,7 @@ a {
 }
 
 .container {
+  margin-left: 0px;
   margin-right: 120px;
 }
 
