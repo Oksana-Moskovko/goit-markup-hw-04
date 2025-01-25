@@ -328,13 +328,13 @@ a {
   background-color: #404bbf;
 }
 
-.icon-list {
+.icons-list {
   display: flex;
   gap: 24px;
   justify-content: center;
 }
 
-.icon-lisk-link {
+.icon-list-link {
   width: 40px;
   height: 40px;
 }
@@ -455,7 +455,7 @@ a {
   gap: 16px;
   justify-content: center;
 }
-.icon-link.footer-link:hover,
-.icon-link.footer-link:focus {
+.icon-link.vector:hover,
+.icon-link.vector:focus {
   background-color: #31d0aa;
 }
